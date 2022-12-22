@@ -108,10 +108,10 @@ $8 + 4 + 0 + 1 + 0.0 + 0.25 + 0.125 = 13.375$
 
 $$
 \begin{align}
-13 \div 2 = 6 \cdots 1 \\
-6 \div 2 = 3 \cdots 0 \\
-3 \div 2 = 1 \cdots 1 \\
-1
+13 \div 2 = 6 \cdots 1 \tag{1}\\
+6 \div 2 = 3 \cdots 0  \tag{2}\\
+3 \div 2 = 1 \cdots 1 \tag{3}\\
+1 \tag{4}
 \end{align}
 $$
 
