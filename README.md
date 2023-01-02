@@ -11,3 +11,4 @@ Today I Learned
 
 - [데이터 단위](https://jeon-seun.github.io/data-structure/data-unit)
 - [수치 데이터 표현 - 정수형](https://jeon-seun.github.io/data-structure/numeric-representation/integers)
+- [수치 데이터 표현 - 실수형](https://jeon-seun.github.io/data-structure/numeric-representation/real-numbers)
