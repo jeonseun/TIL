@@ -9,7 +9,7 @@ Today I Learned
 
 ## Data Structure
 
-- [데이터 단위](https://jeon-seun.github.io/data-structure/data-unit)
-- [수치 데이터 표현 - 정수형](https://jeon-seun.github.io/data-structure/numeric-data-representation/integers)
-- [수치 데이터 표현 - 실수형](https://jeon-seun.github.io/data-structure/numeric-data-representation/real-numbers)
-- [문자 데이터 표현](https://jeon-seun.github.io/data-structure/character-data-representation)
+- [데이터 단위](https://jeonseun.github.io/docs/data-structure/data-unit)
+- [정수형 데이터 표현](https://jeonseun.github.io/docs/data-structure/integer-data-representation)
+- [실수형 데이터 표현](https://jeonseun.github.io/docs/data-structure/real-number-data-representation)
+- [문자 데이터 표현](https://jeonseun.github.io/docs/data-structure/character-data-representation)
